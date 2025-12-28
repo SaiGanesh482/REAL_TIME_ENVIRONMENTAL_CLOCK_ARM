@@ -223,9 +223,11 @@ When triggered:
 * Alarm bell screenshot
 * Temperature display photo
 
+* ![image alt](https://github.com/SaiGanesh482/REAL_TIME_ENVIRONMENTAL_CLOCK_ARM/blob/91bfecc31e59d902c1c7173a0c39f939b00ca3be/RTC/proteus_image.png)
+
 
 
 ## 👤 Author
-M Raju  
+P.Ganesh
 Embedded System Developer  
-GitHub: Raj-GitCode
+GitHub: SaiGanesh482
